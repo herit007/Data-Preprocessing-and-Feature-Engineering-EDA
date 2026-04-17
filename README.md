@@ -40,12 +40,4 @@ To build strong foundations in data analysis and create real-world, portfolio-re
 
 ---
 
-## 🔮 Upcoming Projects
-
-* Advanced EDA dashboards
-* Machine Learning models
-* Streamlit data apps
-
----
-
 ⭐ If you like this repo, consider giving it a star!
