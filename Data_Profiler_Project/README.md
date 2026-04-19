@@ -80,9 +80,3 @@ Data_Profiler_Project.ipynb
 This project demonstrates how to perform complete EDA and generate professional data profiling reports using Python, making it useful for real-world data analysis tasks.
 
 ---
-
-## 🔮 Future Improvements
-
-* Build Streamlit dashboard
-* Add machine learning models
-* Automate data pipeline
