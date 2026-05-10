@@ -176,5 +176,3 @@ This repository focuses on building strong practical skills in:
 Data Science | Machine Learning | Data Analysis
 
 ---
-
-⭐ If you find this repository useful, consider giving it a star!
