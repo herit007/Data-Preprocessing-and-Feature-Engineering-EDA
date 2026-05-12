@@ -12,7 +12,7 @@ This repository contains practical implementations of real-world preprocessing w
 
 ---
 
-## 🚀 Projects Included
+# 🚀 Projects Included
 
 # 📁 1. Data Cleanser
 
@@ -129,6 +129,77 @@ A complete end-to-end preprocessing and feature engineering project.
 
 ---
 
+# 📁 4. Ride Dataset Data Preprocessing & Feature Engineering Project
+
+A complete practical project focused on preprocessing and feature engineering using ride-sharing datasets collected from multiple sources.
+
+### Features
+- Multi-source data integration
+- Data cleaning and preprocessing
+- Missing value handling
+- Outlier detection and treatment
+- Feature construction and engineering
+- Encoding and transformations
+- Feature scaling
+- Visualization and analysis
+- Final prepared and scaled dataset generation
+
+### Data Sources
+- CSV (Riders Dataset)
+- JSON (Trips Dataset)
+- SQL (City Zones Dataset)
+
+### Techniques Implemented
+
+#### Missing Value Handling
+- Mean Imputation
+- Most Frequent Imputation
+- KNN Imputation
+
+#### Outlier Handling
+- Z-Score Method
+- IQR Method
+- Winsorization
+
+#### Encoding
+- Label Encoding
+- One Hot Encoding
+- Ordinal Encoding
+
+#### Scaling
+- StandardScaler
+- MinMaxScaler
+
+#### Transformations
+- Log Transformation
+- Square Root Transformation
+- Binning
+
+#### Feature Engineering
+- Ride Frequency
+- Traffic Level
+- Average Ride Distance
+- Average Ride Fare
+- Days Since Signup
+- Ride Cancellation Rate
+- Peak Hour Detection
+- Surge Feature
+
+### Visualizations Included
+- Ride Demand Analysis
+- Surge vs Non-Surge Trips
+- Traffic Level Distribution
+- Outlier Comparison Graphs
+- Scaling Comparison Graphs
+- Transformation Distribution Graphs
+
+### Outputs
+- Final prepared dataset
+- Fully scaled dataset
+- Complete preprocessing notebook
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python
@@ -152,7 +223,8 @@ Projects/
 │
 ├── Data Cleanser/
 ├── Data_Profiler_Project/
-└── Final Project/
+├── Final Project/
+└── Ride_Preprocessing_Project/
 ```
 
 ---
